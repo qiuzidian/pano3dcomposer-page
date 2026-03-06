@@ -1,6 +1,6 @@
 # Pano3DComposer
 
-This is the repository that contains source code for the [Pano3DComposer website](https://zidianqiu.github.io/pano3dcomposer).
+This is the repository that contains source code for the [Pano3DComposer website](https://qiuzidian.github.io/pano3dcomposer-page/).
 
 If you find Pano3DComposer useful for your work please cite:
 ```
